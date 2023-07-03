@@ -1,0 +1,146 @@
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+    
+    .container {
+        padding-inline: 15px;
+    }
+    
+    .hero-heading {
+        font-size: 30px;
+        margin-top: 100px;
+        line-height: 39px;
+        text-align: center;
+    }
+
+    .heading-text.small-text {
+        text-align: center;
+    }
+
+    .hero-section {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .hero-section-right {
+        width: 100%;
+    }
+
+    .hero-image {
+        width: 100%;
+        margin-top: 80px;
+    }
+
+    .about-heading-left-container {
+        
+    }
+
+    .about-section-sub {
+        flex-wrap: wrap;
+    }
+
+    .about-section {
+        flex-wrap: wrap;
+    }
+
+    .about-section-cards {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .about-heading-left-container {
+        width: 100%;
+    }
+
+    .about-heading-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-heading-left-container .about-heading {
+        text-align: center;
+    }
+
+    .work-experience-cards-1 {
+        flex-wrap: wrap;
+    } 
+
+    .work-experience-cards-2 {
+        flex-wrap: wrap;
+    }
+
+    .portfolio-cards {
+        flex-wrap: wrap;
+    }
+ }
+
+@media screen (max-width:768px) {
+    
+}
+
+/* @media screen and (min-width:480px) {
+    .container {
+        padding-inline: 15px;
+    }
+    
+    .hero-heading {
+        font-size: 30px;
+        line-height: 39px;
+        text-align: center;
+    }
+
+    .heading-text.small-text {
+        text-align: center;
+    }
+
+    .hero-section {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .about-heading-left-container {
+        
+    }
+
+    .about-section-sub {
+        flex-wrap: wrap;
+    }
+
+    .about-section {
+        flex-wrap: wrap;
+    }
+} */
+
+/* @media (max-width:480px) {
+   
+    .container {
+        padding-inline: 15px;
+        background-color: red;
+    }
+    
+    .hero-heading {
+        font-size: 30px;
+        line-height: 39px;
+        text-align: center;
+        background-color: red;
+    }
+
+    .heading-text.small-text {
+        text-align: center;
+    }
+
+    .hero-section {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .about-heading-left-container {
+        
+    }
+
+    .about-section-sub {
+        flex-wrap: wrap;
+    }
+
+    .about-section {
+        flex-wrap: wrap;
+    }
+} */
